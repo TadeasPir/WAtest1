@@ -161,12 +161,47 @@ html, body {
     grid-template-columns: auto auto auto;
     background-color: #2196F3;
     padding: 10px;
+    
+  }
+  .grid-item1 {
+    background-color: rgba(0, 236, 90, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
     padding: 20px;
     font-size: 30px;
     text-align: center;
   }
-  .grid-item {
-    background-color: rgba(255, 255, 255, 0.8);
+  .grid-item2 {
+    background-color: rgba(9, 26, 218, 0.8);
     border: 1px solid rgba(0, 0, 0, 0.8);
- 
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+  }
+  .grid-item3 {
+    background-color: rgba(215, 0, 0, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+  }
+  .grid-item4 {
+    background-color: rgba(248, 0, 243, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+  }
+  .grid-item5 {
+    background-color: rgba(66, 137, 0, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+  }
+  .grid-item6 {
+    background-color: rgba(255, 217, 0, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
   }
