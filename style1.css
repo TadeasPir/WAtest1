@@ -10,7 +10,7 @@ html, body {
   }
   html {
     font-size: 10px;
-    background-color: #5e6b5e;;
+   
   }
   
   body {
@@ -27,7 +27,7 @@ html, body {
   
   p, input, li {
     font-family: 'Open Sans Condensed', sans-serif;
-    color: #2a2a2a;
+    color: #640f0f;
   }
   
   main, header, nav, article, aside, footer, section {
@@ -111,7 +111,7 @@ html, body {
   input[type="submit"] {
     flex: 1;
     margin-left: 1rem;
-    background: #333;
+    background: #1f0303;
     border: 0;
     color: white;
   }
@@ -205,3 +205,12 @@ html, body {
     font-size: 30px;
     text-align: center;
   }
+.page2{
+    background-color: #2196F3;
+}
+.page1{
+    background-color: #187318;
+}
+.page3{
+    background-color: #2dff49;
+}
